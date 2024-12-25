@@ -1,0 +1,1 @@
+This repository contains a VBScript function that demonstrates a common runtime error caused by type mismatch.  The function `f` compares two values, but if these values are not numbers, a type mismatch error occurs.  A solution is provided to handle this error gracefully.
